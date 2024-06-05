@@ -2,7 +2,7 @@
 window.addEventListener('load', () => {
     Swal.fire({
         title: 'Do you want to play music in the background?',
-        icon: 'warning',
+        icon: 'music',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
         cancelButtonColor: '#d33',
