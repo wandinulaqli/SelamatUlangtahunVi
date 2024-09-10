@@ -3,6 +3,8 @@ html {
 }
 
 body {
+  background: rgb(249,247,246);
+  background: linear-gradient(90deg, rgba(249,247,246,1) 0%, rgba(247,216,223,1) 35%, rgba(248,240,251,1) 100%);
   font-family: 'Poppins', sans-serif;
   margin: 0;
 }
